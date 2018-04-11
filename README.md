@@ -2,7 +2,7 @@
 
 ## Usage
 ```bash
-docker run -p 5432:5432 chiavegatto/postgres-pgagent
+docker run -p 5432:5432 dayvison/postgres-pgagent
 ``` 
 
 **Create a job example**
